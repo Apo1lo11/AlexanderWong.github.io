@@ -12,16 +12,15 @@ title: John Doe's Portfolio # This is what shows up in the tab of the browser
 
 
 # Hero Section
-name: John Doe
-headline: headline message
+name: Alexander Wong
+headline:  Innovative Mechanical Engineering Student | Aspiring Professional
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  Write an awesome intro and discuss your highlights and qualification. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  As a junior mechanical engineering student at UMass Amherst, I have a strong passion for design, problem-solving, and innovation. 
+  My background in mechatronics from Brooklyn Technical High School laid the foundation for my skills in robotics and automation. 
+  As an active member of the ASME Design Team, I am currently working on a drone prototype for the IAM3D challenge, applying my expertise in SolidWorks, MATLAB, and hands-on fabrication.
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/avatar.jpeg
-
 
 # Link your resume
 # You can place your resume in assets/resume/{resume file.pdf} or add external link such as pdf saved in google drive 
